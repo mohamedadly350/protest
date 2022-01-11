@@ -1,0 +1,19 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.contener{
+    width: 80%;
+    margin: auto;
+}
+.title{
+    color: brown;
+    transform: 50% 50%;
+}
+.title-header .contener img {
+   height: 75vh;
+   background-image: url(واحه 5.jpg);
+   background-repeat: no-repeat;
+   background-size: cover;
+    background-attachment: fixed;
+}
